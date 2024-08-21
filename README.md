@@ -1,5 +1,8 @@
 # Pokemon-review-api
 ASP.NET CORE WEB version 8 
+Learn more about Asp.NET.
+Models,Repositry Pattern,Method Rest.
+
 
 ![UMLDiagram](https://github.com/user-attachments/assets/5d15e1ce-245c-4a1e-9eca-96a7b962ff6c)
 
